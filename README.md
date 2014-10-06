@@ -1,4 +1,4 @@
-# Ngingx as simple load balancer
+# Nginx as simple load balancer
 
 You can use Nginx' upstream functionality to get a light and simple load balancer.
 See http://nginx.org/en/docs/http/ngx_http_upstream_module.html for more details.
